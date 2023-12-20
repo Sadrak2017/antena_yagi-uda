@@ -1,0 +1,143 @@
+{
+    "parameters": [
+        {
+            "descr": "Comprimento graund",
+            "expr": "2*lambda",
+            "name": "W",
+            "value": "116.750521132113"
+        },
+        {
+            "descr": "Largura Casador",
+            "expr": "0.051* lambda",
+            "name": "Wf",
+            "value": "2.97713828886889"
+        },
+        {
+            "descr": "Espessura do substrato",
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "descr": "Espessura cobre",
+            "expr": "0.04",
+            "name": "tc",
+            "value": "0.04"
+        },
+        {
+            "descr": "Comprimento da placa",
+            "expr": "(3/2) * lambda",
+            "name": "L",
+            "value": "87.5628908490851"
+        },
+        {
+            "descr": "Altura GND",
+            "expr": "0.49232 * lambda",
+            "name": "WL",
+            "value": "28.739308281881"
+        },
+        {
+            "descr": "Altura entre casado/gnd e dipolo",
+            "expr": "0.17487 * lambda",
+            "name": "Sr",
+            "value": "10.2080818151863"
+        },
+        {
+            "descr": "Espessura diretores",
+            "expr": "0.0292 * lambda",
+            "name": "Wd",
+            "value": "1.70455760852886"
+        },
+        {
+            "descr": "Tamanho do dipolo/refletor",
+            "expr": "0.54535  * lambda",
+            "name": "LD",
+            "value": "31.834948349699"
+        },
+        {
+            "descr": "Distancia entre dipolo e diretor 1",
+            "expr": "0.05076 * lambda",
+            "name": "S01",
+            "value": "2.96312822633304"
+        },
+        {
+            "descr": "Tamanho do diretor 1",
+            "expr": "0.62450 * lambda",
+            "name": "LD1",
+            "value": "36.4553502235024"
+        },
+        {
+            "descr": "Distancia entre diretor 1 e 2",
+            "expr": "0.15537 * lambda",
+            "name": "S12",
+            "value": "9.06976423414823"
+        },
+        {
+            "descr": "Tamanho do diretor 2",
+            "expr": "0.61746 * lambda",
+            "name": "LD2",
+            "value": "36.0443883891174"
+        },
+        {
+            "descr": "Tamanho do diretor 3",
+            "expr": "0.60929 * lambda",
+            "name": "LD3",
+            "value": "35.5674625102927"
+        },
+        {
+            "descr": "Tamanho do diretor 4",
+            "expr": "0.60171 * lambda",
+            "name": "LD4",
+            "value": "35.124978035202"
+        },
+        {
+            "descr": "Distancia entre diretor 2 e 3",
+            "expr": "0.17781 *  lambda",
+            "name": "S23",
+            "value": "10.3797050812505"
+        },
+        {
+            "descr": "Distancia entre diretor 3 e 4",
+            "expr": "0.19888 * lambda",
+            "name": "S34",
+            "value": "11.6096718213774"
+        },
+        {
+            "descr": "Comprimento de onda",
+            "expr": "c/(sqr(Er)*f)*1000",
+            "name": "lambda",
+            "value": "58.3752605660567"
+        },
+        {
+            "descr": "Largura dipolo",
+            "expr": "0.825 * Wd",
+            "name": "We",
+            "value": "1.40626002703631"
+        },
+        {
+            "descr": "Permissividade relativa substrato FR4",
+            "expr": "4.4",
+            "name": "Er",
+            "value": "4.4"
+        },
+        {
+            "descr": "Frequencia de operação",
+            "expr": "2.45*10^9",
+            "name": "f",
+            "value": "2450000000"
+        },
+        {
+            "descr": "Velocidade da onda no ar",
+            "expr": "3*10^8",
+            "name": "c",
+            "value": "300000000"
+        },
+        {
+            "descr": "Largura sustenção dipolo face GND",
+            "expr": "Wd^2",
+            "name": "Ws",
+            "value": "2.90551664079363"
+        }
+    ],
+    "version": 1
+}

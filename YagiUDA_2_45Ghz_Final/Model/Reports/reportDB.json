@@ -1,0 +1,28 @@
+{
+    "lastModifiedBy": {
+        "build": 20220426,
+        "major": 2022,
+        "patch": 4
+    },
+    "reports": [
+        {
+            "items": [
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "Dimensions\\Dimension12",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "a20d24b001a24a13bbddfeab5e1fd9bf\\8b24a912df724c59a998ee79b5da223a.png",
+                    "sortkey": 0,
+                    "treePath": "{\"plotSettings\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?>\\n<RememberPlots version=\\\"20200930\\\">\\n  <ModelViewSettings name=\\\"\\\" workplane=\\\"0\\\">\\n    <ViewSettings axes=\\\"0\\\" bbox=\\\"0\\\" wireframe=\\\"0\\\">\\n      <Camera matrix=\\\"3.35043296e-07 1.00000155 0 0 -1.00000155 3.35043296e-07 0 0 0 0 1 0 0 0 0 1\\\" center=\\\"-39.9463882 0.00625991821\\\" distance=\\\"0\\\" scale=\\\"15.972991\\\"/>\\n      <Cutplane active=\\\"0\\\" normal=\\\"1 0 0\\\" dist=\\\"0\\\" covermode=\\\"HIDE\\\"/>\\n    </ViewSettings>\\n  </ModelViewSettings>\\n</RememberPlots>\\n\",\"treePaths\":[\"Dimensions\\\\Dimension12\"]}",
+                    "uid": "8b24a912df724c59a998ee79b5da223a",
+                    "vis3DFilepath": ""
+                }
+            ],
+            "name": "Report 1",
+            "pathName": "a20d24b001a24a13bbddfeab5e1fd9bf",
+            "uid": "a20d24b001a24a13bbddfeab5e1fd9bf"
+        }
+    ],
+    "version": 20200902
+}

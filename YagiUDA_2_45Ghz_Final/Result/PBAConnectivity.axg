@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Components\component1:substrato" id="1"/>
+    <Object name="Components\component1:Alimentador right" id="2"/>
+    <Object name="Components\component1:Diretor 1" id="3"/>
+    <Object name="Components\component1:Diretor 2" id="4"/>
+    <Object name="Components\component1:Diretor 3" id="5"/>
+    <Object name="Components\component1:Diretor4" id="6"/>
+    <Object name="Components\component1:Haste GND" id="7"/>
+    <Object name="Components\component1:ref1" id="8"/>
+  </Objects>
+  <Materials/>
+  <Groups>
+    <Group name="Isolators" type="Isolator" ID="1">
+      <Item name="Components\component1:substrato" type="solid" id="1"/>
+    </Group>
+    <Group name="Unconsidered" type="Isolator" ID="1">
+      <Item name="Components\component1:Alimentador right" type="solid" id="2"/>
+      <Item name="Components\component1:Diretor 1" type="solid" id="3"/>
+      <Item name="Components\component1:Diretor 2" type="solid" id="4"/>
+      <Item name="Components\component1:Diretor 3" type="solid" id="5"/>
+      <Item name="Components\component1:Diretor4" type="solid" id="6"/>
+      <Item name="Components\component1:Haste GND" type="solid" id="7"/>
+      <Item name="Components\component1:ref1" type="solid" id="8"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>
